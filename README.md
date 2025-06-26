@@ -10,7 +10,7 @@ Welcome to **TuneStream**, a sleek and modern **music streaming web application*
 
 This repository contains the frontend design of the TuneStream music app. The goal is to showcase the layout and user interface of a music streaming platform.
 
-- 🎧 Clean and responsive UI
+- 🎧 Clean UI
 - 🎨 Built for modern browsers
 - 🛠️ Ready for backend/API integrations
 
@@ -32,28 +32,18 @@ TuneStream-template/
 └── README.md
 
 
-
----
+```
 
 ## 🧰 Tech Stack
 
 - **HTML**
 - **CSS**
 - **JavaScript**
-- *(Add framework/library like React if used)*
 
----
-
-## 📸 Screenshots
-
-> *(Add screenshots here in the future for visual reference)*
-
----
 
 ## ▶️ Getting Started
 
 To run this template locally:
-
 ```bash
 # Clone this repository
 git clone https://github.com/AlphaCosmicCoder/TuneStream-template.git
@@ -66,7 +56,7 @@ npm install
 
 # Start the development server
 npm start
-````
+```
 
 ---
 
